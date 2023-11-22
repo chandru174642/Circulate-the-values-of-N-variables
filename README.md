@@ -21,6 +21,7 @@ At last , print the list of rotated variables
 #Program to circulate N values.
 #Developed by: CHANDRU P
 #RegisterNumber:23007250
+```
 def circulate():
     l1=eval(input())
     a=int(input())
@@ -30,6 +31,7 @@ def circulate():
     for i in range(a):
         l2.append(l1[i])
     print("After circulating the values are:",l2)
+```
 ## Output:
 
 ![circulates](https://github.com/chandru174642/Circulate-the-values-of-N-variables/assets/139841798/9e34fcc4-3ea6-4a41-b638-b201fa1da374)
